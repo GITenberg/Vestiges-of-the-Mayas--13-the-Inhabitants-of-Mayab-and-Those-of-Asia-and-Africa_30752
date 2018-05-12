@@ -1,0 +1,35 @@
+_repo: Vestiges-of-the-Mayas--13-the-Inhabitants-of-Mayab-and-Those-of-Asia-and-Africa_30752
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Le Plongeon, Augustus
+    aliases:
+    - LePlongeon, Augustus
+    - Plongeon, Augustus Le
+    birthdate: 1826
+    deathdate: 1908
+    gutenberg_agent_id: '34112'
+    url: http://www.gutenberg.org/2009/agents/34112
+    wikipedia: http://en.wikipedia.org/wiki/Augustus_Le_Plongeon
+description: ''
+gutenberg_issued: '2009-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30752'
+  lccn: '05006265'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mayas'
+- !lcsh 'Indians -- Origin'
+- !lcc 'F1401'
+- !lcsh 'Yucatán Peninsula -- Antiquities'
+title: "Vestiges of the Mayas\r\nor, Facts Tending to Prove That Communications and\
+  \ Intimate Relations Must Have Existed, in Very Remote Times, Between the Inhabitants\
+  \ of Mayab and Those of Asia and Africa"
+url: http://www.gutenberg.org/ebooks/30752
